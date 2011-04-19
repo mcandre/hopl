@@ -15,14 +15,8 @@
 -- Haskell 2010 (http://haskell.org/)
 -- Haskell graphviz (http://hackage.haskell.org/packages/archive/graphviz/latest/doc/html/Data-GraphViz.html)
 -- Graphviz (http://www.graphviz.org/)
---
--- Example
---
--- $ runhaskell hopl.hs > hopl.dot
--- $ dot -Tpng hopl.dot > hopl.png
--- $ open hopl.png
 
-module Me where
+module Hopl where
 
 import Data.Graph.Inductive
 import Data.GraphViz
