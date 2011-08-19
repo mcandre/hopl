@@ -1,4 +1,7 @@
-all: hopl.dot
+all: hopl.png
+	open hopl.png
+
+hopl.png: hopl.dot
 	dot -Tpng hopl.dot > hopl.png
 
 hopl.dot: hopl.hs
