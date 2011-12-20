@@ -1,9 +1,9 @@
-hopl - History of Programming Languages
+# hopl - History of Programming Languages
 
-EXAMPLE
+## EXAMPLE
 
 	$ make
 
-VIEW
+## VIEW
 
 Poster [PNG](https://github.com/mcandre/hopl/raw/master/hopl.png)
